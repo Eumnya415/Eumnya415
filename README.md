@@ -1,4 +1,5 @@
-<center><img src="https://i.ibb.co/CJJxgYP/cooltext445984891639737.png"></center>
+<div align="center">
+<img src="https://i.ibb.co/CJJxgYP/cooltext445984891639737.png"></center>
 
 
 
@@ -7,7 +8,6 @@
 <a href="http://qr.kakao.com/talk/Izpi45cWlcbi1w63opmw6zqgY9c-" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=square&logo=kakaotalk&logoColor=white"/></a>
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white"/></a>
 
-<br>
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eumnya415)](https://github.com/Eumnya415/github-profile-trophy)
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
