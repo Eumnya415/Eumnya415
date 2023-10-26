@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=So Young's%20GITHUB&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=So%20Young's%20GITHUB&fontSize=70" />
 
 
 <a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
