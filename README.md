@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=CHA's%20GITHUB&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=CHA's%20GITHUB&fontSize=80" />
 
 
 <a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
