@@ -9,10 +9,12 @@
 
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 <br></br>
+<h2>✨STACK✨</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <br>
 
 <p><a href="https://github.com/Eumnya415/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eumnya415" alt="trophy"></a></p>
-
+<br>
 
 <!--
 **Eumnya415/Eumnya415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
