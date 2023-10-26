@@ -10,7 +10,9 @@
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 <br></br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eumnya415)](https://github.com/Eumnya415/github-profile-trophy)
+
+<p><a href="https://github.com/Eumnya415/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eumnya415" alt="trophy"></a></p>
+
 
 <!--
 **Eumnya415/Eumnya415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Eumnya415's github stats](https://github-readme-stats.vercel.app/api?username=Eumnya415&show_icons=true)
-[![Eumnya415's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eumnya415&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Eumnya415)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+<p><img src="https://github-readme-stats.vercel.app/api?username=Eumnya415&amp;show_icons=true" alt="Eumnya415&#39;s github stats">
+<a href="https://github.com/Eumnya415"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumnya415&amp;show_icons=true&amp;hide_border=true&amp;title_color=004386&amp;icon_color=004386&amp;layout=compact" alt="Eumnya415&#39;s github stats"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=100&amp;section=footer" alt="footer"></p>
 </div>
