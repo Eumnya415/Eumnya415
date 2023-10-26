@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-C01818style=flat-square&logo=coffeescript&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/GitHub-181717style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitBash-F05032style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-2F80EDstyle=flat-square&logo=&logoColor=white"/>
 <br>
