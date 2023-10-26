@@ -1,5 +1,7 @@
-<a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=square&logo=blog&logoColor=white"/></a>
-<a href="https://www.instagram.com/s_y_415" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=s_y_415&logoColor=white"/></a>
+<img src=""C:\Users\user\Downloads\cooltext445984627874919.png">
+<br>
+<a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/naver blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://www.instagram.com/s_y_415" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=instagram&logoColor=white"/></a>
 <br>
 ### Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄
 
