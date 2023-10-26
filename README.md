@@ -2,7 +2,7 @@
 <a href="2124524@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=2124524@gmail.com&logoColor=white"/></a>
 <a href="2124524@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=s_y_415&logoColor=white"/></a>
 <br><br>
-### Hi there 👋 I'm CHA SO-YOUNG. Currently I learning the FULL-STACK course. I wanna become a meticulous developer. 😄
+### Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄
 
 <!--
 **Eumnya415/Eumnya415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
