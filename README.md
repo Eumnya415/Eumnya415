@@ -1,4 +1,4 @@
-<img src="https://ibb.co/QCGGYbY">
+<img src="https://i.ibb.co/HxQQGFG/cooltext445984627874919.png">
 <br>
 <a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/naver blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/s_y_415" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=instagram&logoColor=white"/></a>
