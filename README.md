@@ -8,7 +8,7 @@
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white"/></a>
 
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
-
+<br></br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eumnya415)](https://github.com/Eumnya415/github-profile-trophy)
 
 <!--
