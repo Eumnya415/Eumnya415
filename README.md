@@ -10,6 +10,8 @@
 <br>
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eumnya415)](https://github.com/Eumnya415/github-profile-trophy)
+
 <!--
 **Eumnya415/Eumnya415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
