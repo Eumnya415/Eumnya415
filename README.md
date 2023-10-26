@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/CJJxgYP/cooltext445984891639737.png"></center>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 
 
 <a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
@@ -29,4 +28,5 @@ Here are some ideas to get you started:
 
 ![Eumnya415's github stats](https://github-readme-stats.vercel.app/api?username=Eumnya415&show_icons=true)
 [![Eumnya415's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eumnya415&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Eumnya415)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
