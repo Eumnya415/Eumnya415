@@ -9,6 +9,7 @@
 
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 <br></br>
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eumnya415)](https://github.com/Eumnya415/github-profile-trophy)
 
 <!--
