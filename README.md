@@ -7,7 +7,7 @@
 <a href="http://qr.kakao.com/talk/Izpi45cWlcbi1w63opmw6zqgY9c-" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=square&logo=kakaotalk&logoColor=white"/></a>
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white"/></a>
 
-<h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
+<h2>Hi there 👋 I'm SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 <br>
 <h3>✨STACK & TOOL✨</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
