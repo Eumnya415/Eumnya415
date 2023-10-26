@@ -9,7 +9,7 @@
 
 <h2>Hi there 👋 I'm CHA SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 <br>
-<h2>✨STACK✨</h2>
+<h2>✨STACK & TOOL✨</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -18,7 +18,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitBash-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-2F80ED?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <br>
 <br>
 <p><a href="https://github.com/Eumnya415/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eumnya415" alt="trophy"></a></p>
