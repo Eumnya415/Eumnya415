@@ -25,6 +25,21 @@
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <br>
 <br>
+
+<H3>🌱Profile🌱</H3>
+
+<!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
+
+| Date | Contents | Type |
+|:---:|:---:|:---:|
+| 23.11 | JDBC - SQL 쿼리를 활용한 CRUD 기능 구현  | 팀 프로젝트 |
+| 23.10 | [HTML5/CSS3/JS 기반 웹퍼블리싱](https://github.com/Eumnya415/PRJ_01_WEB_Publishing/blob/7c54da46fe90cab73ed1ba7a445f61ae1ddece62/README.md) | 개인프로젝트 |
+| 23.10 | [MyBatis+DB 연동 구현 프로젝트](https://github.com/Eumnya415/PRJ_02_DB/blob/867eb8975fe446981fe3801fd6efd881b25f9d57/README.md) | 개인프로젝트 |
+| 23.09 ~ 24.03 | 천재교육IT아카데미 풀스택 개발자 양성과정 3기| 교육 |
+| 15.03 ~ 20.02 | 덕성여자대학교 일어일문학과/교직학부 복수전공, 회계학 부전공 | 졸업 |
+
+<br>
+<br>
 <p><a href="https://github.com/Eumnya415/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eumnya415" alt="trophy"></a></p>
 <br>
 
