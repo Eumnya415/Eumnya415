@@ -35,7 +35,7 @@
 |:---:|:---:|:---:|
 | 23.11 | JDBC - SQL 쿼리를 활용한 CRUD 기능 구현  | 팀 프로젝트 |
 | 23.10 | [HTML5/CSS3/JS 기반 웹퍼블리싱](https://github.com/Eumnya415/PRJ_01_WEB_Publishing/blob/7c54da46fe90cab73ed1ba7a445f61ae1ddece62/README.md) | 개인프로젝트 |
-| 23.10 | [MyBatis/JAVA 기반 연동 구현](https://github.com/Eumnya415/PRJ_02_DB/blob/867eb8975fe446981fe3801fd6efd881b25f9d57/README.md) | 개인프로젝트 |
+| 23.10 | [MyBatis/MySQL/JAVA 기반 주소록 프로그램 구현](https://github.com/Eumnya415/PRJ_02_DB/blob/867eb8975fe446981fe3801fd6efd881b25f9d57/README.md) | 개인프로젝트 |
 | 23.09 ~ 24.03 | 천재교육IT아카데미 풀스택 개발자 양성과정 3기| 교육 |
 | 23.05 ~ 23.09 | 자치분권지방정부협의회 주임 | 사무행정, 대외관련 업무 |
 | 21.10 ~ 23.04 | CU 송도마리나베이점 점장 | 매장 총괄 운영, 관리 |
