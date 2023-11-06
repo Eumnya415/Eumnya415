@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=220&section=header&text=SO-YOUNG!&fontSize=80" />
 
-![1000058615 (1)](https://github.com/Eumnya415/Eumnya415/assets/145963611/39cc1275-3b88-4f40-926c-b6dfd725885d)
-
 <a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/s_y_415" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=instagram&logoColor=white"/></a>
 <a href="http://qr.kakao.com/talk/Izpi45cWlcbi1w63opmw6zqgY9c-" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=square&logo=kakaotalk&logoColor=white"/></a>
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white"/></a>
 
+![1000058615 (1)](https://github.com/Eumnya415/Eumnya415/assets/145963611/39cc1275-3b88-4f40-926c-b6dfd725885d)
 <h2>Hi there 👋 I'm SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
 <br>
 <h3>✨STACK & TOOL✨</h3>
