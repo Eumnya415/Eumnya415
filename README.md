@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=220&section=header&text=SO-YOUNG!&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=220&section=header&text=SO-YOUNG!&fontSize=80" />
 
 ![1000058615 (1)](https://github.com/Eumnya415/Eumnya415/assets/145963611/39cc1275-3b88-4f40-926c-b6dfd725885d)
 
