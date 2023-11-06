@@ -35,7 +35,7 @@
 |:---:|:---:|:---:|
 | 23.11 | JDBC - SQL 쿼리를 활용한 CRUD 기능 구현  | 팀 프로젝트 |
 | 23.10 | [HTML5/CSS3/JS 기반 웹퍼블리싱](https://github.com/Eumnya415/PRJ_01_WEB_Publishing#readme) | 개인프로젝트 |
-| 23.10 | [MyBatis/MySQL/JAVA 기반 주소록 프로그램 구현](https://github.com/Eumnya415/PRJ_02_DB/blob/867eb8975fe446981fe3801fd6efd881b25f9d57/README.md) | 개인프로젝트 |
+| 23.10 | [MyBatis/MySQL/JAVA 기반 주소록 프로그램 구현](https://github.com/Eumnya415/PRJ_01_WEB_Publishing#readme) | 개인프로젝트 |
 
 <!-- https://github.com/Eumnya415/PRJ_01_WEB_Publishing/blob/7c54da46fe90cab73ed1ba7a445f61ae1ddece62/README.md -->
 <br>
