@@ -7,8 +7,6 @@
 <a href="http://qr.kakao.com/talk/Izpi45cWlcbi1w63opmw6zqgY9c-" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=square&logo=kakaotalk&logoColor=white"/></a>
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white"/></a>
 
-<br>
-
 ![1000058615](https://github.com/Eumnya415/Eumnya415/assets/145963611/05d69939-386e-4df9-949d-a02b055c0074)
 
 <br>
