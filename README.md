@@ -8,7 +8,9 @@
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white"/></a>
 
 <br>
+
 ![1000058615](https://github.com/Eumnya415/Eumnya415/assets/145963611/05d69939-386e-4df9-949d-a02b055c0074)
+
 <br>
 
 <h2>Hi there 👋 I'm SO-YOUNG. <br> Currently I learning the FULL-STACK course. <br> I wanna become a meticulous developer. 😄</h2>
