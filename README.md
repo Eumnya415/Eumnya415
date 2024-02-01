@@ -34,6 +34,7 @@
 
 | Date | Contents | Type |
 |:---:|:---:|:---:|
+| 23.12 | [MyBatis/JSP 기반 온라인 강의 사이트 구현](https://github.com/Eumnya415/NOV_Team_Project#readme)  | 팀 프로젝트 |
 | 23.11 | [JDBC - SQL 쿼리를 활용한 CRUD 기능 구현](https://github.com/Eumnya415/team3_project#readme)  | 팀 프로젝트 |
 | 23.10 | [HTML5/CSS3/JS 기반 웹퍼블리싱](https://github.com/Eumnya415/PRJ_01_WEB_Publishing/tree/main#readme) | 개인프로젝트 |
 | 23.10 | [MyBatis/MySQL/JAVA 기반 주소록 프로그램 구현](https://github.com/Eumnya415/PRJ_02_DB#readme) | 개인프로젝트 |
