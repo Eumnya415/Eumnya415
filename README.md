@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=CHA%20SO%20YOUNG&fontSize=80&animation=twinkling" />
 
-<h2> :small_orange_diamond:CODE to START, CODE to CHART:small_orange_diamond: </h2>
+<h2> :small_orange_diamond:CODE to START, CODE to HEART:small_orange_diamond: </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&duration=2500&pause=1500&color=FFFFFF&background=2896FFCA&center=true&vCenter=true&random=false&width=600&height=40&lines=%EC%83%88%EB%A1%9C%EC%9A%B4+%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%9D%98+%EC%8B%9C%EC%9E%91%EC%9D%84+%EA%B7%B8%EB%A6%AC%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4.;%EB%AF%B8%EB%9E%98%EC%9D%98+%EB%B0%A9%ED%96%A5%EC%84%B1%EC%9D%84+%EC%A0%9C%EC%8B%9C%ED%95%98%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4.;%EB%8F%84%EC%A0%84%ED%95%98%EA%B3%A0%2C+%EB%85%B8%EB%A0%A5%ED%95%98%EB%8A%94+%EC%9A%B0%EC%83%81%ED%96%A5+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
