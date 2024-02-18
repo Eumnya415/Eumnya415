@@ -92,7 +92,7 @@
 <br>
 <br>
 
-## 📫 Contacts
+## 📫 Contacts 📫
 
 <a href="https://blog.naver.com/2124524" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/s_y_415" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
