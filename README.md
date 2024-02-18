@@ -100,10 +100,13 @@
 <a href="https://velog.io/@eumnya415" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eumnya415&theme=burnt-neon&border_radius=6.6&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500)](https://git.io/streak-stats)
+<a href="https://github.com/Eumnya415"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumnya415&amp;show_icons=true&amp;hide_border=true&amp;title_color=004386&amp;icon_color=004386&amp;layout=compact" alt="Eumnya415&#39;s github stats"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=100&amp;section=footer" alt="footer">
 
-
-
-
+</div>
 
 <!--
 
