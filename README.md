@@ -82,7 +82,7 @@
 <br>
 <br>
 
-## 😄 Profile 😄
+## :eyes: Profile :eyes:
 * [23.09 - 24.03] Chunjae IT Education Center - Full-Stack (JAVA) Developer Course (3rd)
 * [23.05 - 23.08] Local Government Autonomy and Regionalization Council - Supervisor
 * [21.10 - 23.04] CU at Songdo Marina Bay - Store Manager
