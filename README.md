@@ -63,16 +63,6 @@
 <br>
 <br>
 
-## 😄 Profile 😄
-* [23.09 - 24.03] Chunjae IT Education Center - Full-Stack (JAVA) Developer Course (3rd)
-* [23.05 - 23.08] Local Government Autonomy and Regionalization Council - Supervisor
-* [21.10 - 23.04] CU at Songdo Marina Bay - Store Manager
-* [19.11 - 20.12] Self-Doc 24 Study Cafe at Songdo Smart City - Manager
-* [15.03 - 20.02] Duksung Women's University Department of Japanese Language and Literature / Dual Major in Education / Minor in Accounting
-  
-<br>
-<br>
-
 ## 🌱 Project 🌱
 <div align="center">
   
@@ -89,6 +79,16 @@
 | 9 | 23.10 | [[ JAVA / MyBatis / MariaDB ] - Address book CRUD](https://github.com/Eumnya415/PRJ_02_DB#readme) | Personal |
 
 </div>
+<br>
+<br>
+
+## 😄 Profile 😄
+* [23.09 - 24.03] Chunjae IT Education Center - Full-Stack (JAVA) Developer Course (3rd)
+* [23.05 - 23.08] Local Government Autonomy and Regionalization Council - Supervisor
+* [21.10 - 23.04] CU at Songdo Marina Bay - Store Manager
+* [19.11 - 20.12] Self-Doc 24 Study Cafe at Songdo Smart City - Manager
+* [15.03 - 20.02] Duksung Women's University Department of Japanese Language and Literature / Dual Major in Education / Minor in Accounting
+  
 <br>
 <br>
 
