@@ -50,7 +50,7 @@
 
 <img src="https://img.shields.io/badge/adobe after effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/> <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
+<img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/JPA-FF160B?style=for-the-badge&logo=jpa&logoColor=white">
 
 </details>
 
@@ -70,7 +70,7 @@
 | No. | Timeline | Contents | Type |
 |:---:|:---:|:---:|:---:|
 | 1 | 24.02 | [[ SpringBoot3 / Servlet&JSP ] : Class Archive - CMS (Admin)](https://github.com/Eumnya415/Archive-SpringBoot-Public#readme)  | Team |
-| 2 | 24.01 | [[ SpringBoot3 / ThymeLeaf ] : Blog CRUD](https://github.com/Eumnya415/springboot-developer#readme)  | Personal |
+| 2 | 24.01 | [[ SpringBoot3 / JPA / ThymeLeaf ] : Blog CRUD](https://github.com/Eumnya415/springboot-developer#readme)  | Personal |
 | 3 | 24.01 | [[ Spring / Servlet&JSP ] : SLOOP - Group Study & Community](https://github.com/S-loop/Sloop-Spring#readme)  | Team |
 | 4 | 24.01 | [[ Spring / Servlet&JSP ] : Web Board CRUD](https://github.com/Eumnya415/spring_boardtest#readme)  | Personal |
 | 5 | 23.12 | [[ MyBatis / Servlet&JSP ] : CODE TAB - Online Lecture Site & Community](https://github.com/Eumnya415/NOV_Team_Project#readme)  | Team |
