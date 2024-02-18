@@ -69,7 +69,7 @@
 | No. | Timeline | Contents | Type |
 |:---:|:---:|:---:|:---:|
 | 1 | 24.02 | [[ SpringBoot3 / Servlet&JSP ] : Class Archive - CMS (Admin)](https://github.com/Eumnya415/Archive-SpringBoot-Public#readme)  | Team |
-| 2 | 24.01 | [[ SpringBoot3 / TypeScript ] : Blog CRUD](https://github.com/Eumnya415/springboot-developer#readme)  | Personal |
+| 2 | 24.01 | [[ SpringBoot3 / ThymeLeaf ] : Blog CRUD](https://github.com/Eumnya415/springboot-developer#readme)  | Personal |
 | 3 | 24.01 | [[ Spring / Servlet&JSP ] : SLOOP - Group Study & Community](https://github.com/S-loop/Sloop-Spring#readme)  | Team |
 | 4 | 24.01 | [[ Spring / Servlet&JSP ] : Web Board CRUD](https://github.com/Eumnya415/spring_boardtest#readme)  | Personal |
 | 5 | 23.12 | [[ MyBatis / Servlet&JSP ] : CODE TAB - Online Lecture Site & Community](https://github.com/Eumnya415/NOV_Team_Project#readme)  | Team |
