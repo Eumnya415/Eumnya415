@@ -50,7 +50,7 @@
 
 <img src="https://img.shields.io/badge/adobe after effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/> <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/JPA-FF160B?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/JPA-FF160B?style=for-the-badge&logo=jpa&logoColor=white"> <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 
 </details>
 
