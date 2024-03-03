@@ -25,18 +25,6 @@
 <br>
 <br>
 
-## :hammer: Tools :hammer:
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-362822?style=for-the-badge&logo=dbeaver&logoColor=white">
-<img src="https://img.shields.io/badge/Work Bench-1E93D9?style=for-the-badge&logoColor=white">
-
-<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitBash-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
-<img src="https://img.shields.io/badge/source tree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 <br>
 
